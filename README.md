@@ -100,9 +100,9 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 👤 **Bhavika Jain**
 
 -   Website: 
--   Instagram: [@1hanzla100](https://instagram.com/bhavikajain_32)
--   Github: [@1hanzla100](https://github.com/Bhav32)
--   LinkedIn: [@1hanzla100](https://linkedin.com/in/bhavika-jain-b3070/)
+-   Instagram: [@bhavikajain_32](https://instagram.com/bhavikajain_32)
+-   Github: [@Bhav32](https://github.com/Bhav32)
+-   LinkedIn: [@bhavika-jain-b3070/](https://linkedin.com/in/bhavika-jain-b3070/)
 
 ## Show your support
 
