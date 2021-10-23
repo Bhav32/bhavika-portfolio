@@ -7,6 +7,7 @@ import { socialLinks } from "../portfolio";
 const SocialLinks = () => {
 	return (
 		<div className="btn-wrapper text-lg">
+			{/*
 			<Button
 				className="btn-icon-only rounded-circle"
 				color="twitter"
@@ -19,6 +20,7 @@ const SocialLinks = () => {
 					<i className="fa fa-twitter" />
 				</span>
 			</Button>
+			*/}
 			<Button
 				className="btn-icon-only rounded-circle ml-1"
 				color="facebook"

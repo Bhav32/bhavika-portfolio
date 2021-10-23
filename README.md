@@ -106,12 +106,12 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 ## Author
 
-👤 **Hanzla Tauqeer**
+👤 **Bhavika Jain**
 
--   Website: https://hanzla.netlify.app
--   Twitter: [@1hanzla100](https://twitter.com/1hanzla100)
--   Github: [@1hanzla100](https://github.com/1hanzla100)
--   LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
+-   Website: 
+-   Instagram: [@1hanzla100](https://instagram.com/bhavikajain_32)
+-   Github: [@1hanzla100](https://github.com/Bhav32)
+-   LinkedIn: [@1hanzla100](https://linkedin.com/in/bhavika-jain-b3070/)
 
 ## Show your support
 
