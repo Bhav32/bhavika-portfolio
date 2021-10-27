@@ -1,5 +1,6 @@
 {
-	"name": "developer-portfolio",
+	"homepage": "https://bhav32.github.io/bhavika-portfolio/",
+	"name": "bhavika-portfolio",
 	"version": "1.0.0",
 	"description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
 	"main": "index.js",
@@ -7,6 +8,8 @@
 	"author": "Bhavika Jain",
 	"license": "MIT",
 	"scripts": {
+		"predeploy": "npm run build",
+		"deploy": "gh-pages-deploy",
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
@@ -39,6 +42,7 @@
 	},
 	"devDependencies": {
 		"eslint": "7.32.0",
-		"eslint-config-next": "11.1.2"
+		"eslint-config-next": "11.1.2",
+		"gh-pages": "^3.2.3"
 	}
 }
