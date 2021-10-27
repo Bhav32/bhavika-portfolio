@@ -8,8 +8,7 @@
 	"author": "Bhavika Jain",
 	"license": "MIT",
 	"scripts": {
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -d docs",
+		"export": "next export",
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
