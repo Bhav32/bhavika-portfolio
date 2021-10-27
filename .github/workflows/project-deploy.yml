@@ -30,8 +30,12 @@ jobs:
     - run: npm run build 
     - run: npm run export
     
-    - name: Install rsync
-      run: npm install rsync
+    - name: install rsync
+      run: C:\msys64\usr\bin\bash -lc "pacman -S --noconfirm rsync ; which rsync "
+    - name: non official add path version for windows
+      run: echo "##[add-path]C:\msys64\usr\bin"
+      env:
+        ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
     
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@4.1.5
