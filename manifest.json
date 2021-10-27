@@ -4,12 +4,12 @@
   "description": "CRAZY WEB DEVELOPER, CONSTANT AND KEEN LEARNER ",
     "icons": [
       {
-        "src": "./favicon.png",
+        "src": "././favicon.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "./favicon.png",
+        "src": "././favicon.png",
         "type": "image/png",
         "sizes": "512x512"
       }
