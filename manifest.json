@@ -1,20 +1,20 @@
 {
   "short_name": "Portfolio",
-  "name": "Hanzla's Portfolio",
-  "description": "A passionate Full Stack Web Developer and Mobile App Developer.",
+  "name": "Bhavika's Portfolio",
+  "description": "CRAZY WEB DEVELOPER, CONSTANT AND KEEN LEARNER ",
     "icons": [
       {
-        "src": "./favicon.png",
+        "src": "bhavika-portfolio/favicon.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "./favicon.png",
+        "src": "bhavika-portfolio/favicon.png",
         "type": "image/png",
         "sizes": "512x512"
       }
     ],
-  "start_url": "./index.html",
+  "start_url": "bhavika-portfolio/index.html",
   "display": "standalone",
   "theme_color": "#11cdef",
   "background_color": "#11cdef"
