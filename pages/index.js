@@ -14,6 +14,8 @@ const GithubProfileCard = dynamic(() =>
 import { openSource } from "../portfolio";
 import SEO from "../components/SEO";
 
+const prefix = '/bhavika-portfolio';
+
 export default function Home({ githubProfileData }) {
 	return (
 		<div>
@@ -22,7 +24,7 @@ export default function Home({ githubProfileData }) {
 					title: "Bhavika Jain",
 					description:
 						"A passionate Developer and Learner.",
-					image: "/image/portfolio/bhavika", 
+					image: prefix+"/image/portfolio/bhavika", 
 					url: "https://developer-portfolio-bhav32.vercel.app",
 					keywords: [
 						"Bhavika",

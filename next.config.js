@@ -3,6 +3,7 @@ module.exports = {
 	basePath: "/bhavika-portfolio",
 	assetPrefix: '/bhavika-portfolio',
 	images: {
-		domains: ["avatars.githubusercontent.com"],
+		loader: 'imgix',
+		path: 'https://bhav32.github.io/bhavika-portfolio/',
 	}
 };
