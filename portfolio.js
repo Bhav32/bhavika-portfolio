@@ -5,7 +5,7 @@ export const greetings = {
 	title: "Hi, I'm Bhavika",
 	description:
 		"A passionate Software Engineer and web developer having an experience of building Web applications with Laravel / SAPUI5 / PHP / Javascript and some other cool libraries and frameworks.",
-	resumeLink: "/resume/Bhavika-resume.pdf",
+	resumeLink: "/bhavika-portfolio/resume/Bhavika-resume.pdf",
 };
 
 export const openSource = {
