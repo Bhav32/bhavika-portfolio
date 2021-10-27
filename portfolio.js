@@ -136,7 +136,7 @@ export const experience = [
 	{
 		role: "Software Engineer",
 		company: "Accenture",
-		companylogo: "/bhavika-portfolio/img/profile/airbnbLogo.png",
+		companylogo: "/img/profile/airbnbLogo.png",
 		date: "September 2019 – Present",
 		desc: "I have been working in organisation for 2 years. I work in VMS project ( visit management system) for SAP client in the technology Sapui5. \n At first I was responsible for frontend UI after few days gradually I started my hands on SAP hana DB and now working as a full stack.",
 		descBullets: [
@@ -147,7 +147,7 @@ export const experience = [
 	{
 		role: "Intern",
 		company: "Avaptech",
-		companylogo: "/bhavika-portfolio/img/profile/airbnbLogo.png",
+		companylogo: "/img/profile/airbnbLogo.png",
 		date: "Jan 2015 – Sep 2015",
 		desc: "I am having my 6 Month internship in Avaptech solutions where I came to learn about different scripting languages along with php like jquery, javascript. I started to grow interest towards Laravel framework. And I also came to know about how to face real time challenges.",
 		descBullets: [
