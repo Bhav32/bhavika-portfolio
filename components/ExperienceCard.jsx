@@ -10,10 +10,10 @@ import {
 	Col,
 } from "reactstrap";
 
-import Color from "color-thief-react";
+//import Color from "color-thief-react";
 
 import { Fade } from "react-reveal";
-import Image from "next/image";
+//import Image from "next/image";
 
 const prefix = '/bhavika-portfolio';
 const ExperienceCard = ({ data }) => {
@@ -24,11 +24,9 @@ const ExperienceCard = ({ data }) => {
 					style={{ flex: 1 }}
 					className="shadow-lg--hover shadow border-0 text-center rounded"
 				>
-					<Color style="background-color: #FD5C63" format="hex">
-							<CardHeader style="background-color: #FD5C63">
-								<h5 className="text-white">{data.company}</h5>
-							</CardHeader>
-					</Color>
+					<CardHeader style="background-color: #FD5C63">
+						<h5 className="text-white">{data.company}</h5>
+					</CardHeader>
 					<CardBody className="py-5">
 						{/*<div
 							className="bg-white rounded-circle mb-3 img-center img-fluid shadow-lg "
