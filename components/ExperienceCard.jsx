@@ -24,7 +24,7 @@ const ExperienceCard = ({ data }) => {
 					style={{ flex: 1 }}
 					className="shadow-lg--hover shadow border-0 text-center rounded"
 				>
-					<Color src={prefix+data.companylogo} format="hex">
+					<Color src={data.companylogo} format="hex">
 						{(color) => (
 							<CardHeader style={{ background: color.data }}>
 								<h5 className="text-white">{data.company}</h5>
