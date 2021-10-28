@@ -26,7 +26,7 @@ const ExperienceCard = ({ data }) => {
 				>
 					<Color format="hex">
 						{(color) => (
-							<CardHeader style={{ background: color.data }}>
+							<CardHeader style="background-color: #FD5C63">
 								<h5 className="text-white">{data.company}</h5>
 							</CardHeader>
 						)}
