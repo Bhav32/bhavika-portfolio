@@ -15,7 +15,7 @@ import {
 import { Fade } from "react-reveal";
 //import Image from "next/image";
 
-const prefix = '/bhavika-portfolio';
+const color = '#FD5C63';
 const ExperienceCard = ({ data }) => {
 	return (
 		<Col lg="4">
@@ -24,7 +24,7 @@ const ExperienceCard = ({ data }) => {
 					style={{ flex: 1 }}
 					className="shadow-lg--hover shadow border-0 text-center rounded"
 				>
-					<CardHeader style="background-color: #FD5C63">
+					<CardHeader style={{background: color}}>
 						<h5 className="text-white">{data.company}</h5>
 					</CardHeader>
 					<CardBody className="py-5">
